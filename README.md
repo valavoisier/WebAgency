@@ -2,7 +2,7 @@
 ## Environnement
 HTML, CSS, JS et API Google Maps
 ## Réalisation 
-site de type Single page réalisé en HTML5 et CSS3 des apports hors projet ont été apportés pour une expérience utilisateur optimisée:
+site de type Single Page réalisé en HTML5 et CSS3 des apports supplémentaires ont été apportés pour une expérience utilisateur optimisée et un rendu plus professionnel:
 * un menu hamburger réalisé en html et css pour navigation sur tablettes et mobiles.
 * du code JavaCcript pour le fonctionnement du menu portfolio.
 * API Google Maps pour une carte interactive avec filtre bleu.
